@@ -1,0 +1,42 @@
+.hero-section {
+    background: url('restaurant\ new.jpg');
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+  .menu-item {
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+
+  .about-section {
+    background-image: url('fundue.jpg');
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(226, 211, 211);
+    font-size: large;
+    font-family: sans-serif;
+    letter-spacing: px;
+    }
+
+  h3 {
+    text-align: center;
+  }
+
+  .amount{
+    text-align: center;
+    
+  }
+  .one{
+    position: relative;
+    left: 40%;
+  }
